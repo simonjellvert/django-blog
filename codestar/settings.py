@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'jellecoding.herokuapp.com', 'django-blog-jelle-9040c6cfe7ae.herokuapp.com'
+    'django-blog-jelle-9040c6cfe7ae.herokuapp.com'
 ]
 
 
