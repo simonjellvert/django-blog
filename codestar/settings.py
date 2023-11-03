@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'django-blog-jelle.herokuapp.com', 
-    'localhost'
+    'jellecoding'
 ]
 
 
