@@ -32,7 +32,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    'django-blog-jelle-9040c6cfe7ae.herokuapp.com'
+    'django-blog-jelle-9040c6cfe7ae.herokuapp.com',
+    '8000-simonjellvert-django-blo-k7aslyh958.us2.codeanyapp.com'
 ]
 
 
@@ -47,6 +48,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
+    'django_summernote',
     'blog',
 ]
 
